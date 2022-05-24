@@ -15,3 +15,4 @@ const sequelize = new Sequelize(db_database, db_username, db_password, {
 });
 
 module.exports = sequelize
+  
